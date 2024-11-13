@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jayesh Waghmare
+## <h1>Hi there 👋 I'm Jayesh Waghmare</h1>
 
  <summary><b><h3>GSSOC(24) Badges 🪶</h3></b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -11,7 +11,8 @@
 </div>
 
 
-
+ <h3>Hacktoberfest Badges</h3>
+ 
  [![An image of @jayeshwaghmare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshwaghmare)](https://holopin.io/@jayeshwaghmare)
 
 <!--
