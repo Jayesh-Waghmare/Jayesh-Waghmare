@@ -40,6 +40,45 @@
 </table>
 <br> -->
 
+<!-- <div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-Waghmare&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayesh-Waghmare&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayesh-Waghmare&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayesh-Waghmare&theme=github_dark"/>
+</div> -->
+
+<!-- <h3> Languages, Tools and Technologies 🚀 </h3>
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Frameworks</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
+</tr>
+
+</table>
+<br> -->
+
 <!--
 **Jayesh-Waghmare/Jayesh-Waghmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
