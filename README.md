@@ -1,7 +1,11 @@
-## <h1>Hi there 👋 I'm Jayesh Waghmare</h1>
+<!-- p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Jayesh-Waghmare&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p> -->
 
- <summary><b><h3>GSSOC(24) Badges 🪶</h3></b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<h1 align="center"> Hi there, I'm Jayesh Waghmare</a>
+
+ ### GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
@@ -14,6 +18,27 @@
  <h3>Hacktoberfest Badges</h3>
  
  [![An image of @jayeshwaghmare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshwaghmare)](https://holopin.io/@jayeshwaghmare)
+
+
+<!-- <table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-Waghmare&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=Jayesh-Waghmare&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jayesh-Waghmare&theme=dark" alt="GitHub Streak" /></a>
+</td>
+</tr>
+</table>
+<br> -->
 
 <!--
 **Jayesh-Waghmare/Jayesh-Waghmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
