@@ -40,7 +40,7 @@
   <img width="420em" src="https://github-readme-stats.vercel.app/api?username=Jayesh-Waghmare&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jayesh-Waghmare&theme=dark" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jayesh-Waghmare&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </td>
 </tr>
 </table>
