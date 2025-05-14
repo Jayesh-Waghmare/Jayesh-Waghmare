@@ -1,8 +1,14 @@
-<!-- p align="left">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=Jayesh-Waghmare&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p> -->
+</p>
 
 <h1 align="center"> Hi there, I'm Jayesh Waghmare</a>
+👩‍💻 I am passionate about contributing to and advancing open-source initiatives as a full-stack web developer
+🔭 I'm currently immersed in a thrilling and substantial undertaking
+🧑‍🤝‍🧑 I'm looking forward to make valuable contributions to a broad spectrum of captivating projects
+🤝 I'm eager to know about opportunities which will help me in expanding my potential
+💬 Ask me about Javascript, React, backend development
+📫 How to reach me jayeshw145@gmail.com
 
  ### GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -20,7 +26,7 @@
  [![An image of @jayeshwaghmare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshwaghmare)](https://holopin.io/@jayeshwaghmare)
 
 
-<!-- <table width="100%" align="center">
+<table width="100%" align="center">
 <tr>
 <td>
   <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-Waghmare&theme=radical" alt="Profile Summary">
@@ -38,16 +44,16 @@
 </td>
 </tr>
 </table>
-<br> -->
+<br>
 
-<!-- <div align="center">
+<div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-Waghmare&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayesh-Waghmare&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayesh-Waghmare&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayesh-Waghmare&theme=github_dark"/>
-</div> -->
+</div>
 
-<!-- <h3> Languages, Tools and Technologies 🚀 </h3>
+<h3> Languages, Tools and Technologies 🚀 </h3>
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
@@ -77,7 +83,7 @@
 </tr>
 
 </table>
-<br> -->
+<br>
 
 <!--
 **Jayesh-Waghmare/Jayesh-Waghmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
