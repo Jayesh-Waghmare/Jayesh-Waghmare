@@ -3,12 +3,19 @@
 </p>
 
 <h1 align="center"> Hi there, I'm Jayesh Waghmare</a></h1>
-👩‍💻 I am passionate about contributing to and advancing open-source initiatives as a full-stack web developer<br>
-🔭 I'm currently immersed in a thrilling and substantial undertaking<br>
-🧑‍🤝‍🧑 I'm looking forward to make valuable contributions to a broad spectrum of captivating projects<br>
-🤝 I'm eager to know about opportunities which will help me in expanding my potential<br>
-💬 Ask me about Javascript, React, backend development<br>
-📫 How to reach me jayeshw145@gmail.com <br>
+- 👩‍💻 I am **passionate about contributing to and advancing open-source initiatives as a full-stack web developer**
+
+- 🔭 I'm currently **immersed in a thrilling and substantial undertaking**
+
+- 🧑‍🤝‍🧑 I'm looking forward to **make valuable contributions to a broad spectrum of captivating projects**
+
+- 🤝 I'm eager to know about **opportunities which will help me in expanding my potential**
+
+- 💬 Ask me about **Javascript , React , backend development**
+
+- 📫 How to reach me **jayeshw145@gmail.com**
+
+<br>
 
  ### GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
