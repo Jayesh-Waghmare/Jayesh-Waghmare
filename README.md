@@ -11,7 +11,8 @@
 - 💬 Ask me about **Javascript , React , backend development**
 - 📫 How to reach me **jayeshw145@gmail.com**
 
- ### GSSOC(24) Badges 🪶
+<details>
+  <summary> GSSOC(24) Badges 🪶</summary>
 <div style='display:flex; align-items:center; gap: 10;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -20,12 +21,14 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
+</details>
 
-
- <h3>Hacktoberfest Badges</h3>
+<details> 
+ <summary>Hacktoberfest Badges</summary>
  
  [![An image of @jayeshwaghmare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshwaghmare)](https://holopin.io/@jayeshwaghmare)
 
+</details>
 
 <table width="100%" align="center">
 <tr>
