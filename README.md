@@ -44,7 +44,8 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jayesh-Waghmare&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </td>
 <td>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-Waghmare&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayesh-Waghmare&theme=github_dark"/>
+<!--   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-Waghmare&theme=github_dark" /> -->
 </td>
 </tr>
 </table>
@@ -53,7 +54,7 @@
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayesh-Waghmare&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayesh-Waghmare&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayesh-Waghmare&theme=github_dark"/>
+<!--   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayesh-Waghmare&theme=github_dark"/> -->
 </div>
 
 <h3> Languages, Tools and Technologies 🚀 </h3>
