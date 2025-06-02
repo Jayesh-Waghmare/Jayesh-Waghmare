@@ -12,7 +12,7 @@
 - 📫 How to reach me **jayeshw145@gmail.com**
 
 <details>
-  <summary> GSSOC(24) Badges 🪶</summary>
+  <summary><b>GSSOC'24 Badges 🪶</b> </summary>
 <div style='display:flex; align-items:center; gap: 10;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -24,7 +24,7 @@
 </details>
 
 <details> 
- <summary>Hacktoberfest Badges</summary>
+ <summary><b>Hacktoberfest Badges</b></summary>
  
  [![An image of @jayeshwaghmare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshwaghmare)](https://holopin.io/@jayeshwaghmare)
 
