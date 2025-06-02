@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=Jayesh-Waghmare&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center"> Hi there, I'm Jayesh Waghmare</a></h1>
+<h1 align="center"> Hi there, I'm Jayesh Waghmare</h1>
 
 - 👩‍💻 I am **passionate about contributing to and advancing open-source initiatives as a full-stack web developer**
 - 🔭 I'm currently **immersed in a thrilling and substantial undertaking**
