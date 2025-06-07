@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=Jayesh-Waghmare&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center"> Hi there, I'm Jayesh Waghmare</h1>
+<h1 align="center"> Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">  I'm Jayesh Waghmare</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Open+Source+Contributor;Learning+by+Building;Let's+Build+Something+Awesome!&center=true&width=500&height=25">
