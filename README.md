@@ -36,7 +36,7 @@
 
 <details>
   <summary><strong>Trophies</strong></summary>
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&title=-Stars,-Followers,-Reviews" alt="Jayesh-Waghmare" /></a>    
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&title=-PullRequest,-Experience,-Issues,-Stars,-Followers,-Reviews" alt="Jayesh-Waghmare" /></a>    
     </p>
 </details>
 
@@ -45,24 +45,25 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img height="200em" width="650em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-Waghmare&theme=radical" alt="Profile Summary">
+  <img height="200em" width="700em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-Waghmare&theme=radical" alt="Profile Summary">
 </td>
+<td>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Waghmare&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</td>
+
+</table>
+
+<!-- <table height="200em" width="100%" align="center">
+<tr>
 <td>
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Jayesh-Waghmare&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
 </tr>
-</table>
-
-<table height="200em" width="100%" align="center">
-<tr>
-<td>
-  <img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Waghmare&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</td>
 <td>
   <a href="https://git.io/streak-stats"><img height="180em" width="750em" src="https://streak-stats.demolab.com?user=Jayesh-Waghmare&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </td>
 </tr>
-</table>
+</table> -->
 
 ## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 
