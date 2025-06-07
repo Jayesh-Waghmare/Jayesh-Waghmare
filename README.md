@@ -56,18 +56,13 @@
 <table height="200em" width="100%" align="center">
 <tr>
 <td>
-  <img height="180em" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayesh-Waghmare&theme=github_dark"/>
+  <img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Waghmare&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </td>
 <td>
   <a href="https://git.io/streak-stats"><img height="180em" width="750em" src="https://streak-stats.demolab.com?user=Jayesh-Waghmare&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Waghmare&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  />
-</div>
-<br>
 
 ## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 
