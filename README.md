@@ -68,7 +68,7 @@
 ## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,c,react,nextjs,html,css,nodejs,express,tailwind,vite,mongodb,mysql,git,github,postman,vscode,windows" /> 
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,react,html,css,nodejs,express,tailwind,ts,nextjs,mongodb,mysql,git,github,postman,vscode,vite,windows" /> 
   <br>
 </div>
 <br>
