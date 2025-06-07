@@ -36,7 +36,7 @@
 
 <details>
   <summary><strong>Trophies</strong></summary>
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&theme=discord"                 alt="Jayesh-Waghmare" /></a>    
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&title=-Stars,-Followers,-Reviews" alt="Jayesh-Waghmare" /></a>    
     </p>
 </details>
 
