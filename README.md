@@ -4,6 +4,10 @@
 
 <h1 align="center"> Hi there, I'm Jayesh Waghmare</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Open+Source+Contributor;Learning+by+Building;Let's+Build+Something+Awesome!&center=true&width=500&height=25">
+</p>
+
 - 👩‍💻 I am **passionate about contributing to and advancing open-source initiatives as a full-stack web developer**
 - 🔭 I'm currently **immersed in a thrilling and substantial undertaking**
 - 🧑‍🤝‍🧑 I'm looking forward to **make valuable contributions to a broad spectrum of captivating projects**
@@ -29,6 +33,13 @@
  [![An image of @jayeshwaghmare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshwaghmare)](https://holopin.io/@jayeshwaghmare)
 
 </details>
+
+<details>
+  <summary><strong>Trophies</strong></summary>
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&theme=discord"                 alt="Jayesh-Waghmare" /></a>    
+    </p>
+</details>
+
 <br>
 
 <table width="100%" align="center">
@@ -54,51 +65,20 @@
 </table>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayesh-Waghmare&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayesh-Waghmare&theme=github_dark"  />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Waghmare&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  />
 </div>
 <br>
 
-<h3>Languages, Tools and Technologies 🚀</h3>
+## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 
-<table>
-  <tr>
-    <!-- Left Side Table -->
-    <td>
-      <table>
-        <tr>
-          <td><strong>Programming Languages</strong></td>
-          <td><img height="40" src="https://skillicons.dev/icons?i=cpp,c&theme=dark"></td>
-        </tr>
-        <tr>
-          <td><strong>Database Technologies</strong></td>
-          <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
-        </tr>
-        <tr>
-          <td><strong>Frontend Development</strong></td>
-          <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react"></td>
-        </tr>
-      </table>
-    </td>
-<!-- Right Side Table  -->
-    <td>
-      <table>
-        <tr>
-          <td><strong>Backend Development</strong></td>
-          <td><img height="40" src="https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
-        </tr>
-        <tr>
-          <td><strong>Frameworks</strong></td>
-          <td><img height="40" src="https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
-        </tr>
-        <tr>
-          <td><strong>Developer Tools</strong></td>
-          <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,c,react,nextjs,html,css,nodejs,express,tailwind,vite,mongodb,mysql,git,github,postman,vscode,windows" /> 
+  <br>
+</div>
 <br>
+<br>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
