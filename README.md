@@ -16,7 +16,7 @@
 - 📫 How to reach me **jayeshw145@gmail.com**
 
 <details>
-  <summary><b>GSSOC'24 Badges 🪶</b> </summary>
+  <summary><b>Girlscript Summer of Code (GSSOC'24) Badges 🪶</b> </summary>
 <div style='display:flex; align-items:center; gap: 10;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -28,14 +28,14 @@
 </details>
 
 <details> 
- <summary><b>Hacktoberfest Badges</b></summary>
+ <summary><b>Hacktoberfest'24 Badges</b></summary>
  
  [![An image of @jayeshwaghmare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshwaghmare)](https://holopin.io/@jayeshwaghmare)
 
 </details>
 
 <details>
-  <summary><strong>Trophies</strong></summary>
+  <summary><strong>Github Trophies</strong></summary>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&title=-PullRequest,-Experience,-Issues,-Stars,-Followers,-Reviews" alt="Jayesh-Waghmare" /></a>    
     </p>
 </details>
