@@ -36,7 +36,7 @@
 
 <details>
   <summary><strong>Github Trophies</strong></summary>
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&title=-PullRequest,-Experience,-Issues,-Stars,-Followers,-Reviews" alt="Jayesh-Waghmare" /></a>    
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&title=Commits,Repositories,PullRequest,-Experience,-Issues,-Stars,-Followers,-Reviews" alt="Jayesh-Waghmare" /></a>    
     </p>
 </details>
 
