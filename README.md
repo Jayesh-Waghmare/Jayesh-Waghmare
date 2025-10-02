@@ -56,10 +56,10 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Jayesh-Waghmare&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Jayesh-Waghmare&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-  <a href="https://git.io/streak-stats"><img height="180em" width="750em" src="https://streak-stats.demolab.com?user=Jayesh-Waghmare&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img height="180em" width="700em" src="https://streak-stats.demolab.com?user=Jayesh-Waghmare&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </td>
 </tr>
 </table>
