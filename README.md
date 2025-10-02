@@ -53,17 +53,16 @@
 
 </table>
 
-<!-- <table height="200em" width="100%" align="center">
+<table width="100%" align="center">
 <tr>
 <td>
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Jayesh-Waghmare&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
-</tr>
 <td>
   <a href="https://git.io/streak-stats"><img height="180em" width="750em" src="https://streak-stats.demolab.com?user=Jayesh-Waghmare&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </td>
 </tr>
-</table> -->
+</table>
 
 ## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 
