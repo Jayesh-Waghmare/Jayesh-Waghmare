@@ -1,4 +1,4 @@
-<!-- <p align="left">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=Jayesh-Waghmare&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -74,4 +74,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p> -->
+</p>
