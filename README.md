@@ -1,16 +1,18 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Jayesh-Waghmare&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 <h1 align="center">Hi there, I'm Jayesh Waghmare <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;LLM+%26+GenAI+Enthusiast;Passionate+Open+Source+Contributor;Learning+by+Building;Let's+Build+Something+Awesome!&center=true&width=500&height=25">
 </p>
-<h4>👨‍💻 <strong>Full Stack Developer</strong> passionate about building production-grade web applications</h4>
-<h4>🤖 Exploring <strong>LLMs, GenAI, and RAG pipelines</strong></h4>
-<h4>🤝 Open to <strong>collaborations, open-source contributions, and internship/SDE opportunities</strong></h4>
-<h4>💬 Ask me about <strong>React.js, FastAPI, RAG systems, or backend development</strong></h4>
-<h4>📫 Reach me at <strong>jayeshw145@gmail.com</strong></h4>
 
+- 👨‍💻 **Full Stack Developer** passionate about building production-grade web applications
+- 🤖 Exploring **LLMs, GenAI, and RAG pipelines**
+- 🤝 Open to **collaborations, open-source contributions, and internship/SDE opportunities**
+- 💬 Ask me about **React.js, FastAPI, RAG systems, or backend development**
+- 📫 Reach me at **jayeshw145@gmail.com**
 ---
 
 ## 💼 Experience
@@ -90,7 +92,7 @@
 ## 🤖 AI / ML Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,fastapi" />
   &nbsp;
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48"/>
