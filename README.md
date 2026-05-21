@@ -17,7 +17,7 @@
 
 ## 💼 Experience
 
-### Renan, Databrewery.ai
+### Renan - Databrewery.ai
 **Full Stack Developer Intern** *(Nov 2025 – Apr 2026)*
 
 ---
@@ -84,7 +84,7 @@
 ## 🛠️ Languages and Tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,html,css,tailwind,nodejs,express,fastapi,django,mongodb,mysql,postgres,docker,aws,git,github,linux,vite,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,html,css,tailwind,nodejs,express,django,mongodb,mysql,postgres,docker,aws,git,github,linux,vite,vscode,postman" />
 </div>
 
 <br>
