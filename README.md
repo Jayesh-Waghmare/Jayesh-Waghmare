@@ -42,14 +42,14 @@
   [![An image of @jayeshwaghmare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshwaghmare)](https://holopin.io/@jayeshwaghmare)
 </details>
 
-<details>
+<!-- <details>
   <summary><b>🏆 Github Trophies</b></summary>
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&title=Commits,Repositories,PullRequest,Experience,Issues,-Stars,Followers,-Reviews" alt="Jayesh-Waghmare" />
     </a>
   </p>
-</details>
+</details> -->
 
 ---
 
