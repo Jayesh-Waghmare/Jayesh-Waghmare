@@ -58,7 +58,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img height="200em" width="700em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-Waghmare&theme=radical" alt="Profile Summary">
+  <img height="200em" width="700em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-Waghmare&theme=radical" alt="Profile Summary">
 </td>
 <td>
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Waghmare&hide_border=true&theme=dark&layout=compact&cache_seconds=1800"/>
