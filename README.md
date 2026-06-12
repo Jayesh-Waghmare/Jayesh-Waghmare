@@ -61,23 +61,23 @@
   <img height="200em" width="700em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-Waghmare&theme=radical" alt="Profile Summary">
 </td>
 <td>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Waghmare&hide_border=true&theme=dark&layout=compact"/>
+</td>
+</tr>
+</table>
+
+<!-- <table width="100%" align="center">
+<tr>
+<td>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Jayesh-Waghmare&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
   <a href="https://git.io/streak-stats">
     <img height="180em" width="700em" src="https://streak-stats.demolab.com?user=Jayesh-Waghmare&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </td>
 </tr>
-</table>
-
-<table width="100%" align="center">
-<tr>
-<!-- <td>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Jayesh-Waghmare&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
-</td> -->
-<!-- <td>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Waghmare&hide_border=true&theme=dark&layout=compact"/>
-</td> -->
-</tr>
-</table>
+</table> -->
 
 ---
 
