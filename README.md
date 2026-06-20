@@ -22,7 +22,7 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary><b>🏅 Girlscript Summer of Code (GSSOC'24) Badges</b></summary>
   <div style='display:flex; align-items:center; gap:10;' align='center'>
     <a href="https://gssoc.girlscript.tech/leaderboard">
@@ -34,7 +34,7 @@
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
     </a>
   </div>
-</details>
+</details> -->
 
 <details>
   <summary><b>🎃 Hacktoberfest'24 Badges</b></summary>
@@ -42,14 +42,14 @@
   [![An image of @jayeshwaghmare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshwaghmare)](https://holopin.io/@jayeshwaghmare)
 </details>
 
-<!-- <details>
+<details>
   <summary><b>🏆 Github Trophies</b></summary>
   <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&title=Commits,Repositories,PullRequest,Experience,Issues,-Stars,Followers,-Reviews" alt="Jayesh-Waghmare" />
+    <a href="https://github-profile-trophy-fork-two.vercel.app">
+      <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Jayesh-Waghmare&theme=onedark&title=Commits,Repositories" alt="Jayesh-Waghmare" />
     </a>
   </p>
-</details> -->
+</details>
 
 ---
 
