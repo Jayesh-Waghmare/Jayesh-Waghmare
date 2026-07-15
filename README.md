@@ -18,7 +18,7 @@
 ## 💼 Experience
 
 ### Renan - Databrewery.ai
-**Full Stack Developer Intern** *(Nov 2025 – Apr 2026)*
+**Full Stack Developer Intern** *(6 months)*
 
 ---
 
