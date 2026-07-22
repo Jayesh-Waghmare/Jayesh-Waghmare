@@ -20,7 +20,7 @@
 ### Renan - Databrewery.ai
 **Full Stack Developer Intern** *(6 months)*
 
----
+--- -->
 
 <!-- <details>
   <summary><b>🏅 Girlscript Summer of Code (GSSOC'24) Badges</b></summary>
@@ -36,13 +36,13 @@
   </div>
 </details> -->
 
-<details>
+<!-- <details>
   <summary><b>🎃 Hacktoberfest'24 Badges</b></summary>
 
   [![An image of @jayeshwaghmare's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshwaghmare)](https://holopin.io/@jayeshwaghmare)
-</details>
+</details> -->
 
-<details>
+<!-- <details>
   <summary><b>🏆 Github Trophies</b></summary>
   <p align="left">
     <a href="https://github-trophy.vercel.app">
@@ -64,7 +64,7 @@
   <img height="180em" width="500em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jayesh-Waghmare&hide_border=true&theme=dark&layout=compact&cache_seconds=1800"/>
 </td>
 </tr>
-</table>
+</table> -->
 
 <!-- <table width="100%" align="center">
 <tr>
@@ -77,7 +77,7 @@
   </a>
 </td>
 </tr>
-</table> -->
+</table> 
 
 ---
 
@@ -85,9 +85,9 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,html,css,tailwind,nodejs,express,django,mongodb,mysql,postgres,docker,aws,git,github,linux,vite,vscode,postman" />
-</div>
+</div> -->
 
-<br>
+<!-- <br>
 
 ## 🤖 AI / ML Stack
 
