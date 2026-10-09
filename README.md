@@ -46,7 +46,7 @@
   <summary><b>🏆 Github Trophies</b></summary>
   <p align="left">
     <a href="https://github-trophy.vercel.app">
-      <img src="https://github-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&title=Commits,PullRequest" alt="Jayesh-Waghmare" />
+      <img src="https://github-trophy.vercel.app/?username=Jayesh-Waghmare&theme=onedark&title=Commits,PullRequest,MultiLanguage,-Stars,-Followers,-Repositories,-Issues,-Reviews" alt="Jayesh-Waghmare" />
     </a>
   </p>
 </details>
